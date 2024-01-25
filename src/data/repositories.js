@@ -2,7 +2,7 @@ export default [
     {
       id: 'midudev.midu.dev',
       fullName: 'midudev/midu.dev',
-      description: 'Blog de noticias sobre desarrollo',
+      description: 'Blog de noticias sobre desarrollo, Blog de noticias sobre desarrollo, Blog de noticias sobre desarrollo, ',
       language: 'HTML',
       forksCount: 3123,
       stargazersCount: 52869,
